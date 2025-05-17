@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="GIF.gif" alt="Strikechain Logo Animation" width="200" height="200" style="border-radius: 50%;" />
+  <img src="logo.gif" alt="Strikechain Logo" width="200" style="border-radius: 50%;" />
 </p>
-🏆 Strikechain
 
-Automated prize distribution for sporting events on BASE.
+ # 🏆 StrikeChain Frontend
 
 ## 🚀 Overview
 
