@@ -106,5 +106,15 @@ Strikechain is brought to life by a dedicated team of developers and designers:
   </tr>
 </table>
 
+## 🔗 **Connect with us:**  
+
+💡 **Have ideas?** Let’s innovate together!  
+📢 **Just curious?** Follow us and stay updated with our latest developments!  
+
+🐦 Twitter: coming soon....
+
+📧 Email: coming soon...
+
+👀 Telegram: [Strikechain Community](https://t.me/+D7FBxxXqaJdkMTNh)
 ---
 Let the games begin — on-chain. ⚡
