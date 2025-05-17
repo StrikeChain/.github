@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.gif" alt="Strikechain Logo" width="200" style="border-radius: 50%;" />
+  <img src="Logo.gif" alt="Strikechain Logo" width="200" style="border-radius: 50%;" />
 </p>
 
  # 🏆 StrikeChain Frontend
