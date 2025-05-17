@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GIF.gif" alt="Strikechain Logo Animation" width="200" height="200" style="border-radius: 50%;" />
+  <img src="assets/GIF.gif" alt="Strikechain Logo Animation" width="200" height="200">
 </p>
 🏆 Strikechain
 
